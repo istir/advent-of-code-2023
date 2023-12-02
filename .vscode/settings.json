@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./aoc1/Cargo.toml"
+    ],
+    "autoHide.autoHidePanel": false
+}
